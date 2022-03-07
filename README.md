@@ -1,1 +1,1 @@
-# Adyen Payment Provider Connector
+# VTEX - Adyen Payment Provider Connector
